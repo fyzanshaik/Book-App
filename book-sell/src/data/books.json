@@ -1,0 +1,12 @@
+[
+    {
+      "serialNumber": 1,
+      "name": "Book Two",
+      "author": "Author One",
+      "genre": "Fiction",
+      "owner": "Owner One",
+      "ownerImage": "https://via.placeholder.com/40",
+      "available": true
+    }
+  ]
+  

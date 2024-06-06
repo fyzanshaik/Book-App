@@ -1,0 +1,659 @@
+[
+  {
+    "name": "The Picture Of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Adventure Fantasy",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 3
+  },
+  {
+    "name": "The StoryTeller",
+    "author": "Jodi Picoult",
+    "genre": "Fiction Mysterious",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 4
+  },
+  {
+    "name": "Super Cooperators",
+    "author": "Martin Nowak",
+    "genre": "Productivity Self-Help",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 3
+  },
+  {
+    "name": "Awakening The Buddha Within",
+    "author": "Lama Surya Das",
+    "genre": "Religious  ",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 4
+  },
+  {
+    "name": "The Hobbit",
+    "author": "J.R.R Tolkien",
+    "genre": "Adventure Novel Fantasy",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 5
+  },
+  {
+    "name": "Gulliver's Travels",
+    "author": "Jonathan Swift",
+    "genre": "Fantasy Novel Fiction",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 6
+  },
+  {
+    "name": "A witch in love",
+    "author": "Ruth Warburton",
+    "genre": "Romance ",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 7
+  },
+  {
+    "name": "City Of Bones (Shadow Hunters)",
+    "author": "Cassandra Clare",
+    "genre": "Fantasy",
+    "owner": "vyshnavi ",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 8
+  },
+  {
+    "name": "City Of Ashes (Shadow Hunters)",
+    "author": "Cassandra Clare",
+    "genre": "Fantasy",
+    "owner": "vyshnavi ",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 9
+  },
+  {
+    "name": "City Of Glass(Shadow Hunters)",
+    "author": "Cassandra Clare",
+    "genre": "Fantasy,Romance",
+    "owner": "vyshnavi ",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 10
+  },
+  {
+    "name": "City Of Fallen Angels(Shadow Hunters)",
+    "author": "Cassandra Clare",
+    "genre": "Fantasy,Romance",
+    "owner": "Vyshnavi ",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 11
+  },
+  {
+    "name": "City Of Lost Soul (Shadow Hunters)",
+    "author": "Cassandra Clare",
+    "genre": "Fantasy,Romance",
+    "owner": "vyshnavi ",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 12
+  },
+  {
+    "name": "City Of Heavenly Fire (Shadow Hunters)",
+    "author": "Cassandra Clare",
+    "genre": "Fantasy,Romance",
+    "owner": "vyshnavi ",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 13
+  },
+  {
+    "name": "It Ends With Us",
+    "author": "Colleeen Hoover",
+    "genre": "Romance ",
+    "owner": "vyshnavi ",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 14
+  },
+  {
+    "name": "It Starts with Us",
+    "author": "Colleeen Hoover",
+    "genre": "Romance ",
+    "owner": "vyshnavi ",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 15
+  },
+  {
+    "name": "The Autobiograpy of Benjamin Franklin",
+    "author": "Benjamin Franklin",
+    "genre": "Autibiography",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 16
+  },
+  {
+    "name": "The Sea Of Monsters",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 17
+  },
+  {
+    "name": "The Search",
+    "author": "john Battelle",
+    "genre": "",
+    "owner": "",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 18
+  },
+  {
+    "name": "The Monk Who Sold His Ferrari",
+    "author": "Robin Sharma",
+    "genre": "fiction",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 19
+  },
+  {
+    "name": "The 8 th Habbit",
+    "author": "Stephen R.Covey",
+    "genre": "fiction",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 20
+  },
+  {
+    "name": "Meditaions",
+    "author": "Marcus Aurelius",
+    "genre": "philosophy",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 21
+  },
+  {
+    "name": "The Alchemist",
+    "author": "Panlo Coelho",
+    "genre": "Fantasy",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 22
+  },
+  {
+    "name": "The Adventures Of Huckleberry Film ",
+    "author": "Mark Twain",
+    "genre": "Fantasy",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 23
+  },
+  {
+    "name": "Angels And Demons",
+    "author": "Dan Brown ",
+    "genre": "Fantasy",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 24
+  },
+  {
+    "name": "Chainsawman ",
+    "author": "Tajsuki Fujimoto",
+    "genre": "gore",
+    "owner": "Sahel",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 25
+  },
+  {
+    "name": "jusjustu kaisen",
+    "author": "gege akutami",
+    "genre": "manga",
+    "owner": "sahel",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 26
+  },
+  {
+    "name": "Dairy of wimpy kid ",
+    "author": "Jeff kinney",
+    "genre": "story",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 27
+  },
+  {
+    "name": "Death Note",
+    "author": "Tsugumi Ohba",
+    "genre": "manga",
+    "owner": "hussain",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 28
+  },
+  {
+    "name": "Demon Slayer",
+    "author": "Koyoharu Gotouge",
+    "genre": "manga",
+    "owner": "hussain",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 29
+  },
+  {
+    "name": "The Power of Positive thinking",
+    "author": "Norman Vinvent",
+    "genre": "self help",
+    "owner": "hussain",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 30
+  },
+  {
+    "name": "The best of Sherlock Homes",
+    "author": "Sir Arthur Conan Doyle",
+    "genre": "Fantasy",
+    "owner": "hussain",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 31
+  },
+  {
+    "name": "Harry Potter ",
+    "author": "J.K.Rowling",
+    "genre": "Fantasy",
+    "owner": "hussain",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 32
+  },
+  {
+    "name": "THe Wide Lens",
+    "author": "Ren Ander",
+    "genre": "mystery ",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 33
+  },
+  {
+    "name": "How To win Friends And influence People",
+    "author": "Dale Carnegie",
+    "genre": "slef help",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 34
+  },
+  {
+    "name": "The story Teller",
+    "author": "Jodi Picoult",
+    "genre": "Fantasy",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 35
+  },
+  {
+    "name": "you can achieve more",
+    "author": "Shiv  Khera",
+    "genre": "self help",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 36
+  },
+  {
+    "name": "Super Cooperators",
+    "author": "Martin Nowak",
+    "genre": "science",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 37
+  },
+  {
+    "name": "brida",
+    "author": "Paulo Coelho",
+    "genre": "Fantasy",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 38
+  },
+  {
+    "name": "Freedom ",
+    "author": "Jonathan Franzen ",
+    "genre": "motivation",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 39
+  },
+  {
+    "name": "21 lessons for the 21st century",
+    "author": "Yuval Noah Harrari",
+    "genre": "History",
+    "owner": "fyzanshaik",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 40
+  },
+  {
+    "name": "ikigai",
+    "author": "Hector garcia",
+    "genre": "selp help",
+    "owner": "saif",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 41
+  },
+  {
+    "name": "the Stars Shine Down",
+    "author": "Sidney Sheldon",
+    "genre": "Fantasy",
+    "owner": "Saif",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 42
+  },
+  {
+    "name": "The Subtle Art If Not Giving A Fuck",
+    "author": "Mark Manson",
+    "genre": "self help",
+    "owner": "Saif",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 43
+  },
+  {
+    "name": "Rehan ",
+    "author": "Dr.Aftab Ahmed",
+    "genre": "biography",
+    "owner": "Saif",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 44
+  },
+  {
+    "name": "Inferno",
+    "author": "Dan Brown",
+    "genre": "Fantasy",
+    "owner": "Saif",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 45
+  },
+  {
+    "name": "Malala",
+    "author": "Malala",
+    "genre": "autobiography",
+    "owner": "Saif",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 46
+  },
+  {
+    "name": "AB de villiers",
+    "author": "Macmillan",
+    "genre": "Autibiography",
+    "owner": "Saif",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 47
+  },
+  {
+    "name": "Papillion",
+    "author": "Henri Charriere",
+    "genre": "Adventure",
+    "owner": "Farhan",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 48
+  },
+  {
+    "name": "The Sinister Signpost",
+    "author": "Franklin W.Dixon",
+    "genre": "Fantasy",
+    "owner": "Farhan",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 49
+  },
+  {
+    "name": "The Tinkle",
+    "author": "Anant Pai",
+    "genre": "Fantasy",
+    "owner": "Farhan",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 50
+  },
+  {
+    "name": "Sons of Fortune",
+    "author": "Jeffrey Archer",
+    "genre": "Adventure Fantasy",
+    "owner": "Farhaan",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 51
+  },
+  {
+    "name": "Blue Lock",
+    "author": "muneyuki",
+    "genre": "manga",
+    "owner": "prakash",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 52
+  },
+  {
+    "name": "Twisted LIes",
+    "author": "Ana Huang",
+    "genre": "Fantasy",
+    "owner": "kushi",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 53
+  },
+  {
+    "name": "Spectacular ",
+    "author": "Tom Gates",
+    "genre": "Fantasy",
+    "owner": "Khushi Sajjan",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 54
+  },
+  {
+    "name": "twisted lies",
+    "author": "ana huang",
+    "genre": "fantasy",
+    "owner": "Khushi Sajjan",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 55
+  },
+  {
+    "name": "ugly love",
+    "author": "colleen hoover",
+    "genre": "fantasy",
+    "owner": "Khushi Sajjan",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 56
+  },
+  {
+    "name": "the cruel prince",
+    "author": "holly black",
+    "genre": "fantasy",
+    "owner": "Khushi Sajjan",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 57
+  },
+  {
+    "name": "the song of achilles",
+    "author": "madeline miller",
+    "genre": "Romance Mythology ",
+    "owner": "Khushi Sajjan",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 58
+  },
+  {
+    "name": "Ikigai",
+    "author": "Hector Garcia ",
+    "genre": "Self Help Book",
+    "owner": "Khushi Sajjan",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 59
+  },
+  {
+    "name": "shatter me",
+    "author": "tahereh mafi",
+    "genre": "fantasy romance",
+    "owner": "Khushi Sajjan",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 60
+  },
+  {
+    "name": "twisted hate",
+    "author": "ana huang",
+    "genre": "romance",
+    "owner": "Khushi Sajjan",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 61
+  },
+  {
+    "name": "could it be im falling in love?",
+    "author": "eleanor prescott",
+    "genre": "romance",
+    "owner": "Khushi Sajjan",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 62
+  },
+  {
+    "name": "great stories for children",
+    "author": "ruskin bond",
+    "genre": "kids",
+    "owner": "Khushi Sajjan",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 63
+  },
+  {
+    "name": "IT ENDS WITH US",
+    "author": "COLLEEN HOOVER",
+    "genre": "NOVEL",
+    "owner": "SHRADHA",
+    "available": true ,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 64
+  },
+  {
+    "name": "I AM MALALA",
+    "author": "malala yousufzai",
+    "genre": "auto",
+    "owner": "",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 65
+  },
+  {
+    "name": "iammalala",
+    "author": "malala yousufzai",
+    "genre": "autobiography",
+    "owner": "SHRADHA",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 66
+  },
+  {
+    "name": "better than the movies",
+    "author": "lynn painter",
+    "genre": "Romance ",
+    "owner": "SHRADHA",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 67
+  },
+  {
+    "name": "the fault in our stars",
+    "author": "john green",
+    "genre": "Romance ",
+    "owner": "SHRADHA",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 68
+  },
+  {
+    "name": "the christmas party",
+    "author": "karen swan",
+    "genre": "murder mystery",
+    "owner": "SHRADHA",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 69
+  },
+  {
+    "name": "before i fall",
+    "author": "lauren oliver",
+    "genre": "romance",
+    "owner": "SHRADHA",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/00FF00/FFFFFF?text=O2",
+    "serialNumber": 70
+  },
+  {
+    "name": "icebreaker",
+    "author": "hannah grace",
+    "genre": "rom-com",
+    "owner": "SHRADHA",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 71
+  },
+  {
+    "name": "aartemis fowl",
+    "author": "eoin colfer",
+    "genre": "crime fiction",
+    "owner": "SHRADHA",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/0000FF/FFFFFF?text=O3",
+    "serialNumber": 72
+  },
+  {
+    "name": "example",
+    "author": "example",
+    "genre": "example",
+    "owner": "unknown",
+    "available": true,
+    "ownerImage": "https://via.placeholder.com/40/FF0000/FFFFFF?text=O1",
+    "serialNumber": 73
+  }
+]
